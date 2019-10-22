@@ -4,6 +4,6 @@
     "Highcharts (www.highcharts.com) is a Highsoft software product which is"
   )
   packageStartupMessage(
-    "not free for commercial and governmental use"
+    "not free for commercial and governmental use."
   )
 }
