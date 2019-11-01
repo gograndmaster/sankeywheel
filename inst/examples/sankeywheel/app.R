@@ -69,7 +69,7 @@ ui <- fluidPage(
             textInput(
                 inputId = "subtitle",
                 label = "Input Subtitle ",
-                placeholder = "https://www.czxa.top",
+                placeholder = "https://czxa.top",
                 value = ""
             ),
             selectInput(
